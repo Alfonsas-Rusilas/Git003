@@ -1,0 +1,16 @@
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.exe
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.deps.json
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.runtimeconfig.json
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.runtimeconfig.dev.json
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.dll
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\ref\C_003.dll
+C:\C_Sharp\Git003\C_003\C_003\bin\Debug\net5.0\C_003.pdb
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.csprojAssemblyReference.cache
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.AssemblyInfoInputs.cache
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.AssemblyInfo.cs
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.csproj.CoreCompileInputs.cache
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.dll
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\ref\C_003.dll
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.pdb
+C:\C_Sharp\Git003\C_003\C_003\obj\Debug\net5.0\C_003.genruntimeconfig.cache
