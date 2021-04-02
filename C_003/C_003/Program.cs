@@ -16,6 +16,8 @@ namespace C_003
             Console.WriteLine("Lokaliai sukūriau main branch");
             // 5 
             Console.WriteLine("pull komanda");
+            // 6 
+            Console.WriteLine("merge komanda");
         }
     }
 }
